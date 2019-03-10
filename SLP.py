@@ -165,6 +165,6 @@ def main(lr):
   plt.legend(loc='upper right')
   plt.show()
 
-main(0.1) #learning rate: 0.1
+#main(0.1) #learning rate: 0.1
 main(0.8) #learning rate: 0.8
 
